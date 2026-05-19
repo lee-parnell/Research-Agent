@@ -84,8 +84,7 @@ cd autonomous-research-agent
 ```
 
 ### 2. Set up environment variables
-```bash
-cp .env.example .env
+
 ```
 Open `.env` and fill in your API keys:
 ```env
